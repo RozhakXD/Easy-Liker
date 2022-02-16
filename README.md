@@ -3,11 +3,11 @@
 # Screenshot:
 ![Screenshot_2022-02-16-10-01-12-13_84d3000e3f4017145260f7618db1d683](https://user-images.githubusercontent.com/65714340/154209011-6c7a76f3-4325-4e52-b786-9af6d946d44f.png)
 # Perintah:
-  $ pkg update && upgrade
-  $ pkg install git
-  $ pkg install python
-  $ pip install requests
-  $ git clone https://github.com/RozhakXD/Rpw
-  $ cd Rpw
-  $ git pull
-  $ python Rpw.py
+    $ pkg update && upgrade
+    $ pkg install git
+    $ pkg install python
+    $ pip install requests
+    $ git clone https://github.com/RozhakXD/Rpw
+    $ cd Rpw
+    $ git pull
+    $ python Rpw.py
