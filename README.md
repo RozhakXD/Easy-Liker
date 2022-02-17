@@ -12,4 +12,4 @@
     $ git clone https://github.com/RozhakXD/Rpw
     $ cd Rpw
     $ git pull
-    $ python Rpw.py
+    $ python rpw.py
