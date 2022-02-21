@@ -1,5 +1,5 @@
 # Rpw:
-**Sebuah alat untuk mendapatkan banyak like di postingan anda, untuk cara menggunakan nya bisa lihat di youtube saya. Link : https://youtube.com/rozhakid**
+**Sebuah alat untuk mendapatkan banyak like di postingan anda, untuk cara menggunakan nya bisa lihat di youtube saya. Link :** https://youtu.be/GA9ZLeXLEyw
 # Screenshot:
 ![Screenshot_2022-02-16-16-34-37-34_84d3000e3f4017145260f7618db1d683](https://user-images.githubusercontent.com/65714340/154236525-3e389117-9d48-4f55-b486-43ed9bccd8d9.png)
 
