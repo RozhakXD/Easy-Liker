@@ -2,7 +2,7 @@
     $ apt update -y && apt upgrade -y
     $ pkg install git
     $ pkg install python
-    $ https://github.com/RozhakXD/Rpw-Liker
+    $ git clone https://github.com/RozhakXD/Rpw-Liker
     $ cd Rpw-Liker
     $ pip install -r requirements.txt
     $ python Run.py
