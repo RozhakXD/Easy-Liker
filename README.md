@@ -5,4 +5,4 @@
     $ git clone https://github.com/RozhakXD/Rpw-Liker
     $ cd Rpw-Liker
     $ pip install -r requirements.txt
-    $ chmod +x run && ./run
+    $ python Run.py
